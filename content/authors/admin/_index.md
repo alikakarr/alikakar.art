@@ -11,7 +11,7 @@ role: 3D Generalist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: 
-  url: https://www.stanford.edu/
+  url: http://www.pu.edu.pk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,7 +30,7 @@ education:
     year: 2021
   - course: Cisco Certified Network Associate
     institution: CISCO Networking Academy 
-    year: 2022
+    year: 2021
   
 
 # Social/Academic Networking
@@ -44,12 +44,12 @@ social:
 - icon: twitter
   icon_pack: fab
   #link: https://twitter.com/
-- #icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- #icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/alikakar
@@ -68,6 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-Apna kam kr...
+Don't have time right now... will update soon!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
